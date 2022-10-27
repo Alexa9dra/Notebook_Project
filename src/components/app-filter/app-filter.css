@@ -1,0 +1,18 @@
+.btn-group{
+    margin-bottom: 10px;
+}
+.btn-group button {
+    padding: 10px 15px;
+    min-width: 100px;
+    margin-right: 25px;
+    border-radius: 10px;
+    border: 2px solid #e27d60;
+    background-color: #fff;
+    color: #e27d60;
+    font-size: 18px;
+}
+.active {
+    background-color: #e27d60 !important;
+    color: #fff !important;
+    border-color: #fff !important;
+}

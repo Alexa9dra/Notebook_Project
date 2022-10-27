@@ -1,0 +1,15 @@
+.app-info {
+    margin-bottom: 15px;
+    padding: 25px;
+    background-color: #41b3a3;
+    background-repeat: 4px;
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, .15);
+    border-radius: 20px;
+    color: #fff;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+.app-info__date {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}

@@ -1,0 +1,23 @@
+.note {
+    margin: 0px 10px 15px 10px;
+    padding: 10px 15px;
+    height: 175px;
+    border-radius: 10px;
+    border: 2px solid #e27d60;
+    background-color: #fff;
+    color: #e27d60;
+    font-size: 18px;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.note::-webkit-scrollbar {
+    display: none;
+}
+.notes-list-item__text{
+    text-decoration: underline;
+}
+.notes-list-item__label {
+    font-size: 22px;
+    font-weight: 600;
+}
