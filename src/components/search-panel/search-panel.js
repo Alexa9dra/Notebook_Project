@@ -4,7 +4,7 @@ const SearchPanel = () => {
     return (
         <input 
             type='text'
-            className='search-input'
+            className='search-panel__input hide'
             placeholder='Search week'/>
     );
 }

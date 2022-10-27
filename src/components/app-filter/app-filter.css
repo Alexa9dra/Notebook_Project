@@ -1,9 +1,9 @@
 .btn-group{
     margin-bottom: 10px;
 }
-.btn-group button {
+.filter-btn {
     padding: 10px 15px;
-    min-width: 100px;
+    min-width: 150px;
     margin-right: 25px;
     border-radius: 10px;
     border: 2px solid #e27d60;
@@ -11,7 +11,7 @@
     color: #e27d60;
     font-size: 18px;
 }
-.active {
+.btn-active {
     background-color: #e27d60 !important;
     color: #fff !important;
     border-color: #fff !important;
